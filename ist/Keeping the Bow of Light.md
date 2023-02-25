@@ -1,14 +1,30 @@
 # Keeping the Bow of Light
 
+The Bow of Light ("**BoL**") is an unbreakable energy-firing bow that is supposed to only be available during the last battle with Ganon's final form. Using [IST](/ist/README.md), you can transfer it back to one of your previous saves.
+
 ## Theory
+
+You will generate enough IST offsets to cover the Bow of Light plus any items (Arrows, unsellable Armor, Key Items, etc.) that you cannot reasonably remove from your inventory during the final Ganon battle.
+
+Once the Bow of Light has been acquired, you will drop/use all other Inventory items, and then reload a previous target save. Due to the broken IST slots, the BoL gets transferred (temporarily) as well.
+
+Finally, after some Inventory clean-up, you will be able to transfer the BoL back to your main save.
+
+## Setup
+
+1. You want an 
+
+## Steps
 
 1. You want to minimize the number of items in your Inventory before you generate an autosave outside the Ganon battle (called `Ganon_Autosave` later).
     - Since the Weapon tab is to the left of the Bows tab, you don't need to include Weapons in the IST calculations below.
-    - You can keep some useful items on you when you generate the `Ganon_Autosave`: fairies, bows, shields, meals. However, you won't count them in your IST calculations, as you will get rid of them during the final steps.
+    - You can keep some useful items on you when you generate the `Ganon_Autosave`: fairies, bows, shields, meals. However, you won't count them in your IST calculations, as you will get rid of them during the final steps, after you've obtained the BoL.
 1. Some items cannot be sold or dropped: arrow stacks, some armor, non-stackable Key Items.
     - If you are able to use Prompt Entanglement ("PE") to remove/eat these items (including empty arrow stacks), the total number of IST offsets needed can be reduced.
 1. You will need to count duplicating items 2x for IST offset calculations.
 1. You will need to count non-duplicating items 1x for IST offset calculations.
+
+Once 
 
 ## IST Slot Calculation
 
