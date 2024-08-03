@@ -97,7 +97,7 @@
 <dd>One of the most useful recipes for WMC, giving all beneficial modifiers. It consists of 1× Endura Carrot, 3× Roasted Endura Carrot, 1× Frozen Hearty Salmon.</dd>
 
 <dt>Ultimate 2</dt>
-<dd>Alternate WMC mega-recipes that keep bows spread-shot, but requires a critical cook for maximum effect. It consists of 1× Hearty Blueshell Snail, 3× Roasted Endura Carrot, 1× Icy Prime Meat.</dd>
+<dd>An alternative to <em>Ultimate 1</em> that keep bows spread-shot, but requires a critical cook for maximum effect. It consists of 1× Hearty Blueshell Snail, 3× Roasted Endura Carrot, 1× Icy Prime Meat.</dd>
 
 <dt>Ultimate 3</dt>
 <dd>A lesser-known alternative to <em>Ultimate 2</em> that doesn't require a critical cook. It consists of 1× Raw Gourmet Meat, 1× Roasted Endura Carrot, 1× Roasted Big Radish, 2× Frozen Bird Thigh.</dd>
