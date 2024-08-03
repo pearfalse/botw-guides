@@ -113,7 +113,7 @@
 <dt>Phantom Tab</dt>
 <dd>An inventory tab that isn't empty, but is still locked in the UI.</dd>
 
-<dt>SIIS</dt>
+<dt>Star / SIIS</dt>
 <dd><strong>Star Icon Invalid Slot</strong>. A method of performing </em>prompt entanglement</em>, and often just called <strong>Star</strong>. Obtained from a <em>phantom tab</em>.</dd>
 
 <dt>Arrow PE</dt>
