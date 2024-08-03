@@ -33,4 +33,4 @@ Don't let this discourage you, though; IST is an incredible glitch that can bend
 
 ## Glossary
 
-IST and its sub-glitches have a boatload of unique terms. See the [terminology reference](IST%20Terminology.md) for a guide on what everything means. 
+IST and its sub-glitches have a boatload of unique terms. See the [terminology reference](../general/IST%20Terminology.md) for a guide on what everything means. 
