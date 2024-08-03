@@ -40,7 +40,7 @@
 <dd>Remaking the <em>GameData</em> inventory to match the visible one. The game does this automatically after a lot of common actions.</dd>
 
 <dt>K+<code>n</code> (<code>n</code> is some whole number above 0)</dt>
-<dd>Making enough offset to cover all slots in your <em>Key Items</em> tab, plus `n` more.</dd>
+<dd>Making enough offset to cover all slots in your <em>Key Items</em> tab, plus <code>n</code> more.</dd>
 
 <dt>TOTS</dt>
 <dd><strong>Trial Of The Sword</strong>. A DLC-exclusive quest that gives you a temporary inventory with all non-key items removed. Like the shrine quest on Eventide Island, this provides a quick way to get weapons into offset slots.</dd>
@@ -85,7 +85,7 @@
 <dd><em>Weapon Modifier Corruption</em>. Changes modifiers on equipment by making the game write cooking data of a food item to an equipment slot.</dd>
 
 <dt>K+1</dt>
-<dd>A method of WMC that only needs `K+1` offset by using a stackable food. This is by far the recommended method.</dd>
+<dd>A method of WMC that only needs <code>K+1</code> offset by using a stackable food. This is by far the recommended method.</dd>
 
 <dt>K+60</dt>
 <dd>The first-known method of WMC. It requires over 60 offset, and despite all the YouTube videos on it, there's no reason to do it anymore.</dd>
@@ -129,7 +129,7 @@
 <dd>A wrong name for <em>Prompt Entanglement</em>.</dd>
 
 <dt>X-hauling</dt>
-<dd>A quick way to reduce arrows by entangling a <em>Hold</em> prompt from a material, and pressing `X` to enter the hold state.</dd>
+<dd>A quick way to reduce arrows by entangling a <em>Hold</em> prompt from a material, and pressing <kbd>X</kbd> to enter the hold state.</dd>
 
 ## Save File Nonsense
 
