@@ -30,3 +30,7 @@ Don't let this discourage you, though; IST is an incredible glitch that can bend
 
 - [Corrupting arrows](./Corrupt%20Arrows.md)
 - [Corrupting stackable KIs](./Corrupt%20Stackable%20Key%20Items.md)
+
+## Glossary
+
+IST and its sub-glitches have a boatload of unique terms. See the [terminology reference](IST%20Terminology.md) for a guide on what everything means. 
