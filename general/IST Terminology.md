@@ -73,7 +73,7 @@ This document explains most terminology specific to IST and its downstream glitc
 <dd><strong>Direct Inventory Corruption</strong>. Inventory Corruption by transferring items with IST to <em>desync</em> the inventories. Most setups can only copy durability to an item that sorts after the source item.</dd>
 
 <dt>Desync</dt>
-<dd>The visible inventory and GameData don't agree on contents, and you deliberately keep it that way during the next save.</dd>
+<dd>The visible inventory and GameData don't agree on contents. Allows for <em>inventory corruption</em> if you prevent syncs until the game saves.</dd>
 
 <dt>NGC</dt>
 <dd><strong>New Game Corruption</strong>. A strategy of starting a new game, which is never manually saved, to get a much smaller inventory that's easier to use when doing DIC.</dd>
